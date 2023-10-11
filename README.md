@@ -9,7 +9,7 @@
 
 **Turn up the volume on your computer and it wakes you up in the morning when your favourite phone becomes available!**
 
-### How to run:
+### Basic info:
  - Used Python 3.12.0 while updating the script
  - run pip3 install -r requirements.txt
  - If you run into issues with requests, reinstall requests, urllib3 & six. 
