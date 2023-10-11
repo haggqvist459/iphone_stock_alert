@@ -3,8 +3,10 @@
 
 ## [Updated version of a masterpiece by Insanoid](https://github.com/insanoid/Apple-Store-Reserve-Monitor#apple-store-reserve-monitor)
 
-**Updated the script for the iPhone 15 series**
+**Updated the script for the iPhone 15 series** 
+
 **Works for any Apple device, as long as you have the model number**
+
 **Turn up the volume on your computer and it wakes you up in the morning when your favourite phone becomes available!**
 
 ### How to run:
