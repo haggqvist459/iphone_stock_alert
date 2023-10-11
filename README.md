@@ -3,7 +3,7 @@
 
 ## [Updated version of a masterpiece by Insanoid](https://github.com/insanoid/Apple-Store-Reserve-Monitor#apple-store-reserve-monitor)
 
-**Updated the script for the iPhone 15 series** 
+**Updated the script for the iPhone 15 lineup** 
 
 **Works for any Apple device, as long as you have the model number**
 
