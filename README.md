@@ -17,12 +17,12 @@
  - Change MONITOR_INTERVAL in stock_monitor.py to change the checking interval
 
 ### Setup - variables.json
- 1. "device_family": "", - e.g. iphone15 or iphone15pro
- 2. "model_list": [] - e.g. "MU793ZP/A" for the global version of iPhone 15 Pro Max, 256GB, Natural Titanium
- 3. "store_list": [], - find the store(s) closest to you 
- 4. "country": "au", - ISO code required for all countries except US
- 5. "post_code": "" - search for devices in stores near your post code. 
- 6. "carriers": [] - For US users only, see example in test_variables.md 
+ 1. "device_family" - the entire line up of a certain year (e.g. "iphone15" or "iphone15pro")
+ 2. "model_list" - find your model, (e.g. "MU793ZP/A" for the global version of iPhone 15 Pro Max, 256GB, Natural Titanium)
+ 3. "store_list" - Find the store(s) closest to you (e.g. "R238")
+ 4. "country" - ISO code required for all countries except US (e.g. "au")
+ 5. "post_code" - search for devices in stores near your post code (e.g. "2000")
+ 6. "carriers" - For US users only, see example in test_variables.md 
 
  **variables.json needs a value in either device family or model list**
 
