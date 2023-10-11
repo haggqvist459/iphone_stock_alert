@@ -30,3 +30,7 @@
 _[Link to all the apple stores with IDs](https://gist.github.com/iF2007/ff127f7722af91c47c0cb44d6c1e961d)_
 
 _[Find the specific model numbers based on country on TechWalls](https://www.techwalls.com/?s=iPhone+15+pro+max)_
+
+__Todo:__
+ * Add names to the presented list instead of just model numbers
+ * ???

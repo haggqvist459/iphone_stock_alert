@@ -1,7 +1,7 @@
 {
     "device_family": "",
     "model_list": ["MU793ZP/A"],
-    "store_list": [],
+    "store_list": ["R523", "R238", "R254", "R253", "R606"],
     "country": "au",
     "post_code": "2010",
     "carriers": []
