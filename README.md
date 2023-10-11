@@ -18,14 +18,15 @@
 
 ### Setup - variables.json
  1. "device_family": "", - e.g. iphone15 or iphone15pro
- - "model_list": [] - e.g. "MU793ZP/A" for the global version of iPhone 15 Pro Max, 256GB, Natural Titanium
- - "store_list": [], - find the store(s) closest to you 
- - "country": "au", - ISO code required for all countries except US
- - "post_code": "" - search for devices in stores near your post code. 
- - "carriers": [] - For US users only, see example in test_variables.md 
+ 2. "model_list": [] - e.g. "MU793ZP/A" for the global version of iPhone 15 Pro Max, 256GB, Natural Titanium
+ 3. "store_list": [], - find the store(s) closest to you 
+ 4. "country": "au", - ISO code required for all countries except US
+ 5. "post_code": "" - search for devices in stores near your post code. 
+ 6. "carriers": [] - For US users only, see example in test_variables.md 
 
  **variables.json needs a value in either device family or model list**
 
 
 _[Link to all the apple stores with IDs](https://gist.github.com/iF2007/ff127f7722af91c47c0cb44d6c1e961d)_
+
 _[Find the specific model numbers based on country on TechWalls](https://www.techwalls.com/?s=iPhone+15+pro+max)
